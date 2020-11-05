@@ -1,0 +1,4 @@
+#Thu Nov 05 04:30:59 COT 2020
+base.0=D\:\\UNSA\\VIII_Semestre\\IDNP\\AndroidProjects\\RecyclerView\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
